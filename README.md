@@ -1,1 +1,1 @@
-Responsive blog application using React JS
+Responsive blog application project using React JS. 
