@@ -27,8 +27,6 @@ This React application is a simple blog manager that allows users to:
 
 ## Technologies Used  
 
-- **Frontend**: React.js, HTML, CSS
-- **State Management**: React `useState` and `useEffect` hooks  
-- **Storage**: Browser local storage for data persistence  
-
----
+- **Frontend**: React.js, HTML, CSS.
+- **State Management**: React `useState` and `useEffect` hooks. 
+- **Storage**: Browser local storage for data persistence.
